@@ -5,7 +5,7 @@ OCIのSecurity List（SL）とNetwork Security Group（NSG）をCSVに抽出し�
 ## 解説記事
 
 構成、OCI側の事前準備、設定方法、定期実行、制約事項は、以下のQiita記事をご覧ください。
-
+*掲載予定*
 [OCIのSecurity List/NSGを監査 - 差分検出と生成AIによるリスク評価](QIITA_ARTICLE_URL)
 
 ## 主な機能
